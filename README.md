@@ -1,17 +1,17 @@
-# React Profile Card
+# React Counter App
 
-A simple and responsive **Profile Card** built with **React.js** and **Vite**.  
-This project was created to practice React fundamentals such as components, props, state, and basic styling with CSS Flexbox.
+A very simple **Counter App** built with **React.js**.  
+This project was created as a beginner practice to understand React state, event handling, and component structure.
 
 ---
 
 ## 🚀 Features
 
-- Reusable React component
-- Follow / Unfollow button using state
-- Dynamic data using props
-- Clean and responsive layout
-- Simple and beginner-friendly code structure
+- Increment counter
+- Decrement counter
+- Reset counter
+- Simple and clean UI
+- Beginner-friendly code
 
 ---
 
@@ -19,12 +19,13 @@ This project was created to practice React fundamentals such as components, prop
 
 - **React.js**
 - **Vite**
-- **CSS (Flexbox)**
+- **CSS**
 - **JavaScript (ES6)**
 
 ---
 
 ## Links
 [GitHub Repository]()
+
 [Live Site]()
 
