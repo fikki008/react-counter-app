@@ -1,0 +1,32 @@
+
+.count{
+  font-size: 7rem;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+button{
+  margin: 12px;
+  padding: 10px 15px;
+  font-size: 1rem;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+}
+button:hover{
+  transform: translateY(-2px);
+  box-shadow: 10px 10px 10px #a0adff;
+}
+button:active{
+  box-shadow: none;
+  transform: scale(0.95);
+}
+.plus-btn{
+  background-color: #38bdf8;
+}
+.minus-btn{
+  background-color: #1e3a8a;
+}
+.reset-btn{
+   border-radius: 10px;
+   background-color: #cbd5e1;
+}
