@@ -27,5 +27,5 @@ This project was created as a beginner practice to understand React state, event
 ## Links
 [GitHub Repository](https://github.com/fikki008/react-counter-app.git)
 
-[Live Site]()
+[Live Site](https://fikkii008-react-counter-app.netlify.app/)
 
